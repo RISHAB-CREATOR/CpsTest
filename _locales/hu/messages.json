@@ -1,0 +1,8 @@
+{
+   "app_description": {
+      "message": "Tesztelje a kattintásokat másodpercenként. Új rekordot is beállíthat. Ossza meg pontszámát barátjával, és hívja ki őket, hogy legyőzzenek."
+   },
+   "app_name": {
+      "message": "CPS teszt - Kattintások ellenőrzése másodpercenként"
+   }
+}

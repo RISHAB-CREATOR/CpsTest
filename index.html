@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CPS Test</title>
+	<meta name="title" content="CPS Test - Check Clicks per Second">
+	<meta name="description"
+		content="Usually, calculating mouse clicks is referred to as 'CPS TEST'(Clicks Per Second test). This tool has many modes by which any user can test his mouse clicking speed.">
+	<meta
+		content="Take the CPS Test now, to see how many clicks per second you can achieve by clicking your mouse as fast as you can!">
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/jquery-ui.css">
+</head>
+<body>
+	<h1 class="text-center theme-heading">CPS Test</h1>
+	<div class="row m-0 row-group text-center">
+		<div class="col-12 col-lg-4">
+			<div class="p-1 card gradient-deepblue mt-2 card-duck">
+				<h4 class="mb-0"><span id="timer">0</span></h4>
+				<small class="mb-0 sm-custom">Timer</small>
+			</div>
+		</div>
+		<div class="col-12 col-lg-4">
+			<div class="p-1 card gradient-orange mt-2 card-duck">
+				<h4 class="mb-0"><span id="clicks">0</span></h4>
+				<small class="mb-0 sm-custom">Click/s</small>
+			</div>
+		</div>
+		<div class="col-12 col-lg-4">
+			<div class="p-1 card gradient-ohhappiness mt-2 card-duck">
+				<h4 class="mb-0"><span id="score">0</span></h4>
+				<small class="mb-0 sm-custom">Score</small>
+			</div>
+		</div>
+	</div>
+	<div id="clicksectiondiv" class="btn myRipple">
+		<button id="start" type="button" class="btn btn-light btn-round waves-effect waves-light m-1">Click Here to
+			Start Playing</button>
+		<div id="effect" class="ui-widget-content ui-corner-all" style="display:none;"></div>	
+	</div>
+	<div class="modal fade" id="largesizemodal" style="display: none;" aria-hidden="true" data-backdrop="static">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title modal-heading">Cps Test</h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close" id="btnclose">
+						<span aria-hidden="true">x</span>
+					</button>
+				</div>
+				<div id="scorecontent" class="mb-5">
+					<div class="col-12 col-lg-12 col-xl-12 no-shadow">
+						<div id="modal-cnt" class="card alert alert-outline-warning alert-dismissible mb-0 no-shadow">
+							<div class="card-body ">
+								<div class="row align-items-center">
+									<div class="col-10 text-center p-3">
+										<button type="button" class="btn btn-success close" data-dismiss="modal"
+											aria-label="Close" id="btnrestart">
+											<img class="mr-1" src="images/restart-v2.png">
+											<span aria-hidden="true">Restart</span>
+										</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery-ui.js"></script>
+	<script src="js/hobnd3wxbOwndolbTK0qfCaKCcNbBT24BQnkbPTjR.js"></script>
+</body>
+</html>
