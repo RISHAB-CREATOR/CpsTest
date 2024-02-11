@@ -5,9 +5,13 @@ Welcome to the CPS Test Site, a simple tool to measure your clicks per second (C
 ## Features ✨
 
 ✅ **Clicks Per Second Measurement:** Measure your clicks per second speed accurately within a 10-second duration.
+
 ✅ **Simple and Intuitive Interface:** Enjoy a clean and user-friendly interface designed for easy interaction.
+
 ✅ **Real-Time Feedback:** Receive instant feedback on your CPS performance after completing the test.
+
 ✅ **Shareable Results:** Share your CPS test results with friends or challenge them to beat your score.
+
 ✅ **Responsive Design:** Access the CPS Test Site on any device with responsive design optimized for both desktop and mobile.
 
 ## How to Use 🖱️
