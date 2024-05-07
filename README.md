@@ -16,7 +16,7 @@ Welcome to the CPS Test Site, a simple tool to measure your clicks per second (C
 
 ## How to Use 🖱️
 
-1. Open the [CPS Test Site](https://rishab-creator.github.io/CpsTest/) in your web browser.
+1. Open the [CPS Test Site](https://cpstest-one.vercel.app/) in your web browser.
 2. Click the "Start" button to begin the CPS test.
 3. Rapidly click the button as many times as you can within the 10-second duration.
 4. After 10 seconds, your CPS score will be displayed along with any additional feedback.
